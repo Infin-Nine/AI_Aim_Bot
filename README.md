@@ -1,4 +1,4 @@
-# 🎯 Forehead Aim HUD
+# 🎯 AI Aim Bot
 
 A real-time computer vision project that tracks the user's forehead and overlays a futuristic "Aim Lock" HUD (Heads-Up Display) using MediaPipe and OpenCV.
 
