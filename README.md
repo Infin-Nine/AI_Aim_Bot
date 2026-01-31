@@ -19,8 +19,8 @@ A real-time computer vision project that tracks the user's forehead and overlays
 
 1. **Clone the Repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Infin-Nine/AI_Aim_Bot.git
+   cd AI_Aim_Bot
    ```
 
 2. **Install Dependencies**
